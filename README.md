@@ -12,6 +12,7 @@ Mindset: аналитика, продуктовое мышление, быстр
 ------
 
 🛠 Tech & Tools
+
 Backend: Python, Flask, FastAPI, REST, Webhooks
 
 Bots & Automations: Aiogram 3, Telegram Bot API, Celery/RQ, парсеры
@@ -26,7 +27,7 @@ Other: Git, GitHub Actions, Linux, CI/CD базового уровня
 
 🚀 Selected Projects
 
-RAG Assistant - консольный ассистент с Retrieval-Augmented Generation
+RAG Assistant - консольный ассистент с Retrieval-Augmented Generation.
 Консольное приложение, которое отвечает на вопросы на основе собственной базы знаний.
 Python · RAG · ChromaDB · OpenAI API · GigaChat · LangChain · RAGAS · SQLite · CLI
 repo: [https://github.com/Dentoffae/rag_assistant_final]
