@@ -44,7 +44,6 @@ repo: [https://github.com/Dentoffae/ai_analyze]
 ------
 
 
-📊 GitHub Stats
 📬 Contacts
 
 Telegram: @andreygon
