@@ -31,6 +31,7 @@ Other: Git, GitHub Actions, Linux, CI/CD базового уровня
 
 📊 GitHub Stats
 📬 Contacts
+
 Telegram: @andreygon
 
 Email: dentoffae@gmail.com
