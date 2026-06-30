@@ -26,6 +26,21 @@ Other: Git, GitHub Actions, Linux, CI/CD базового уровня
 
 🚀 Selected Projects
 
+RAG Assistant - консольный ассистент с Retrieval-Augmented Generation
+Консольное приложение, которое отвечает на вопросы на основе собственной базы знаний.
+Python · RAG · ChromaDB · OpenAI API · GigaChat · LangChain · RAGAS · SQLite · CLI
+repo: [https://github.com/Dentoffae/rag_assistant_final]
+
+Сайт для лидогенерации
+Лендинг (React SPA), приём заявок (REST API), простая CRM в админке, уведомления в Telegram.
+Python · FastAPI · PostgreSQL · React · Vite · Nginx · Docker · Telegram Bot API
+repo: [https://github.com/Dentoffae/autobizlab_project]
+
+Мониторинг конкурентов — AI Ассистент
+AI-приложение для конкурентного анализа.
+Python · FastAPI · OpenAI API · Selenium · PyQt6 · Vanilla JS
+repo: [https://github.com/Dentoffae/ai_analyze]
+
 ------
 
 
